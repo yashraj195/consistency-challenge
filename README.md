@@ -13,11 +13,13 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/yashraj195/leetcode-question-solved/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/yashraj195/leetcode-question-solved/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Recursion
 |  |
@@ -27,4 +29,12 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
