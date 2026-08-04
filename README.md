@@ -38,9 +38,18 @@ This repository is for regular update of my work
 | [0518-coin-change-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yashraj195/leetcode-question-solved/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yashraj195/leetcode-question-solved/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
