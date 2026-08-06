@@ -36,6 +36,7 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yashraj195/leetcode-question-solved/tree/master/1406-stone-game-iii) |
@@ -48,10 +49,12 @@ This repository is for regular update of my work
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -73,4 +76,21 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
