@@ -35,6 +35,7 @@ This repository is for regular update of my work
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0518-coin-change-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yashraj195/leetcode-question-solved/tree/master/1406-stone-game-iii) |
@@ -64,4 +65,12 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/yashraj195/leetcode-question-solved/tree/master/3310-remove-methods-from-project) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
