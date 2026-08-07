@@ -36,6 +36,7 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/yashraj195/leetcode-question-solved/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
@@ -49,11 +50,13 @@ This repository is for regular update of my work
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yashraj195/leetcode-question-solved/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/yashraj195/leetcode-question-solved/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
