@@ -19,6 +19,7 @@ This repository is for regular update of my work
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
@@ -37,6 +38,7 @@ This repository is for regular update of my work
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashraj195/leetcode-question-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/yashraj195/leetcode-question-solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yashraj195/leetcode-question-solved/tree/master/0347-top-k-frequent-elements) |
@@ -104,4 +106,8 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yashraj195/leetcode-question-solved/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
