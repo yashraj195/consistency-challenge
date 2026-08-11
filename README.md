@@ -67,6 +67,7 @@ This repository is for regular update of my work
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashraj195/leetcode-question-solved/tree/master/0098-validate-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/yashraj195/leetcode-question-solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -110,4 +111,16 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0055-jump-game) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashraj195/leetcode-question-solved/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashraj195/leetcode-question-solved/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yashraj195/leetcode-question-solved/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
