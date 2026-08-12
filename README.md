@@ -12,6 +12,7 @@ This repository is for regular update of my work
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashraj195/leetcode-question-solved/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yashraj195/leetcode-question-solved/tree/master/1406-stone-game-iii) |
@@ -28,6 +29,7 @@ This repository is for regular update of my work
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashraj195/leetcode-question-solved/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -123,4 +125,8 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/yashraj195/leetcode-question-solved/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yashraj195/leetcode-question-solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
