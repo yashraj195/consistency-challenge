@@ -40,6 +40,7 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashraj195/leetcode-question-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/yashraj195/leetcode-question-solved/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashraj195/leetcode-question-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/yashraj195/leetcode-question-solved/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/yashraj195/leetcode-question-solved/tree/master/0217-contains-duplicate) |
@@ -138,4 +139,8 @@ This repository is for regular update of my work
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashraj195/leetcode-question-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yashraj195/leetcode-question-solved/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/yashraj195/leetcode-question-solved/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
