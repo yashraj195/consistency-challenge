@@ -171,6 +171,7 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/yashraj195/leetcode-question-solved/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/yashraj195/leetcode-question-solved/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/yashraj195/leetcode-question-solved/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/yashraj195/leetcode-question-solved/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/yashraj195/leetcode-question-solved/tree/master/0586-customer-placing-the-largest-number-of-orders) |
