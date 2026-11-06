@@ -167,4 +167,8 @@ This repository is for regular update of my work
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashraj195/leetcode-question-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yashraj195/leetcode-question-solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
