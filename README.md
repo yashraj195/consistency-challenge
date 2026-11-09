@@ -174,6 +174,7 @@ This repository is for regular update of my work
 | [0176-second-highest-salary](https://github.com/yashraj195/leetcode-question-solved/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/yashraj195/leetcode-question-solved/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/yashraj195/leetcode-question-solved/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/yashraj195/leetcode-question-solved/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/yashraj195/leetcode-question-solved/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/yashraj195/leetcode-question-solved/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/yashraj195/leetcode-question-solved/tree/master/0577-employee-bonus) |
