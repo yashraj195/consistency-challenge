@@ -182,6 +182,7 @@ This repository is for regular update of my work
 | [0511-game-play-analysis-i](https://github.com/yashraj195/leetcode-question-solved/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/yashraj195/leetcode-question-solved/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/yashraj195/leetcode-question-solved/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/yashraj195/leetcode-question-solved/tree/master/0596-classes-with-at-least-5-students) |
 | [1075-project-employees-i](https://github.com/yashraj195/leetcode-question-solved/tree/master/1075-project-employees-i) |
 | [1407-top-travellers](https://github.com/yashraj195/leetcode-question-solved/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/yashraj195/leetcode-question-solved/tree/master/1484-group-sold-products-by-the-date) |
